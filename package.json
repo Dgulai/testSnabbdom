@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "snabbdom": "^2.1.0"
+    "snabbdom": "^2.1.0",
+    "vue": "^2.6.14"
   },
   "devDependencies": {
     "webpack": "^5.27.1",
